@@ -1,0 +1,17 @@
+<strings>
+	<string id="AppName">MilTime</string>
+	<string id="ShowSeconds">Show Seconds</string>
+	<string id="ShowColon">Show Colon for hours</string>
+	<string id="ShowHeart">Show heartrate</string>
+	<string id="DateFormat">Date format</string>
+	<string id="BatteryLimit">Highlight battery if below</string>
+	<string id="DAY_DATE_MONTH">Day Date Month (Wed 28 Nov)</string>
+	<string id="YEAR_MON_DATE">Year Month Date (20018.11.28)</string>
+	<string id="DAY_DATE_MON">Day Date Month (Wed 28/11)</string>
+	<string id="DAY_MON_DATE">Day Month Date (Wed 11/28)</string>
+	<string id="Percent10">10</string>
+	<string id="Percent15">15</string>
+	<string id="Percent20">20</string>
+	<string id="Percent25">25</string>
+	<string id="Percent30">30</string>
+</strings>
